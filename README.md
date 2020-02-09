@@ -1,2 +1,2 @@
-# anatoleseria.github.io
+# anatoleserial.github.io
 AnatoleSerial.net Website
