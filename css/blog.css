@@ -1,0 +1,143 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #DDDDDD;
+  color: #221111;
+  font-family: 'DotGothic16', monospace;
+  font-size: 14pt;
+}
+
+p {
+  padding: 0 10px;
+  line-height: 1.8;
+}
+
+ul li {
+  padding-right: 10px;
+  line-height: 1.6;
+}
+
+h3 {
+  padding: 5px 20px;
+  margin: 0;
+}
+
+div#header {
+  position: fixed;
+  z-index: 1;
+  width: 100vw;
+}
+
+div#header h1 {
+  height: 80px;
+  line-height: 80px;
+  margin: 0;
+  padding-left: 10px;
+  background: #DDDDDD;
+  color: #292929;
+}
+
+div#header a {
+  position: absolute;
+  right: 0;
+  top: 23px;
+  padding: 10px;
+  color: #006;
+  height: 80px;
+}
+
+div#navigation {
+  background: #DDDDDD;
+  position: fixed;
+  z-index: 0;
+  padding-top: 80px;
+}
+
+div#navigation li {
+  list-style: none;
+}
+
+div#footer {
+  background: #42444e;
+  color: #DDDDDD;
+}
+
+div#footer p {
+  padding: 20px 10px;
+}
+
+div#container {
+  width: 50vw;/*700px;*/
+  margin: auto 0;
+  overflow-x: hidden;
+}
+
+div#content {
+  float: right;
+  /*margin-left: 200px;*/
+  padding-left: 200px;
+  padding-top: 80px;
+  z-index: -1;
+}
+
+div#navigation {
+  float: left;
+  width: 200px;
+}
+
+div#extra {
+  float: left;
+  clear: left;
+  width: 200px;
+
+}
+
+/* Nav Tree Stuff */
+/* From https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_accordion */
+
+.accordion {
+  color: #221111;
+  font-family: 'DotGothic16', monospace;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1em;
+  transition: 0.4s;
+  background-color: #DDDDDD
+}
+
+.active {
+  background-color: #DDDDDD;
+}
+
+.active::before {
+  content: "- ";
+}
+
+.inactive::before {
+  content: "+ ";
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: #DDDDDD;
+  overflow: hidden;
+}
+
+.menulink {
+  color: #221111;
+  font-family: 'DotGothic16', monospace;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1em;
+  background-color: #DDDDDD
+}

@@ -1,6 +1,31 @@
 body {
-    background-color: #DDDDFF;
-    color: #221111;
-    font-family: 'VT323', monospace;
-    font-size: 32pt;
+    background-color: #DDDDDD;
+    color: #221122;
+    font-family: 'DotGothic16', monospace;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.title {
+    margin: 0 0 0 0;
+}
+
+.title h1 {
+    margin: 0 0 0 0;
+}
+
+.nav {
+    margin-top: -1em;
+}
+
+.link {
+    margin-top: -0.8em;
+}
+
+.link p {
+    margin-left: 1.5em;
+}
+
+.link p::before {
+    content: " > ";
 }
