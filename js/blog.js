@@ -33,7 +33,7 @@ $(".accordion").each(function(i,elem) {
 
 $(".menulink").each(function(i,elem) {
   elem.addEventListener("click", function() {
-    var clicked_name = "contents/" + this.innerHTML + ".html";
+    var clicked_name = "contents/" + this.innerHTML + ".txt";
     console.log(clicked_name);
     $("#content").load(clicked_name);
   });
