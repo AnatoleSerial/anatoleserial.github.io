@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://anatoleserial.com/eleventy-base-blog/blog/2024/20241108/</loc>
+		<lastmod>2024-11-08</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/about/</loc>
 		<lastmod>2024-11-08</lastmod>
 	</url>
@@ -24,10 +29,5 @@
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/feed/feed.xml</loc>
 		<lastmod>2024-11-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://anatoleserial.com/eleventy-base-blog/blog/2024/20241111/</loc>
-		<lastmod>2024-11-11</lastmod>
 	</url>
 </urlset>

@@ -5,17 +5,78 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self" />
   <link href="https://example.com/eleventy-base-blog/" />
-  <updated>2024-11-11T00:00:00Z</updated>
+  <updated>2024-11-08T00:00:00Z</updated>
   <id>https://example.com/eleventy-base-blog/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
     <title>Hello, World</title>
-    <link href="https://example.com/eleventy-base-blog/blog/2024/20241111/" />
-    <updated>2024-11-11T00:00:00Z</updated>
-    <id>https://example.com/eleventy-base-blog/blog/2024/20241111/</id>
-    <content type="html">&lt;p&gt;I tried blogging once. Then I gave up. Now I&#39;m trying again.&lt;/p&gt;
+    <link href="https://example.com/eleventy-base-blog/blog/2024/20241108/" />
+    <updated>2024-11-08T00:00:00Z</updated>
+    <id>https://example.com/eleventy-base-blog/blog/2024/20241108/</id>
+    <content type="html">&lt;h2 id=&quot;on-blogs-and-online-publishing&quot;&gt;On Blogs and Online Publishing&lt;/h2&gt;
+&lt;p&gt;It sucks. But sometimes it&#39;s the only way to put ideas out there.&lt;/p&gt;
+&lt;p&gt;And right now, I need to put &lt;em&gt;a lot&lt;/em&gt; of ideas out there. So we&#39;ll give it a go.&lt;/p&gt;
+&lt;p&gt;Let&#39;s call this an &lt;em&gt;opening salvo&lt;/em&gt;. Something to get started.&lt;/p&gt;
+&lt;h2 id=&quot;on-the-slab&quot;&gt;On the slab&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Things. Floatsam. Works in Progress. Other curiosities.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lancer RPG Homebrew: HOLO//MYTH, five frames + core bonuses based on the talents of Hololive English.
+&lt;ul&gt;
+&lt;li&gt;[ ] KIARA (Striker/Defender)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Current Status&lt;/em&gt;: Playtesting. Melee/CQB frame that wants both allies and enemies close and grouped up. Any tweaks likely to occur only on the statline, the rest of the frame seems stable enough. Been thinking of how to present these via web (aka &lt;em&gt;this website&lt;/em&gt;), so I am looking into options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[x] Planning&lt;/li&gt;
+&lt;li&gt;[x] Design&lt;/li&gt;
+&lt;li&gt;[x] Dev&lt;/li&gt;
+&lt;li&gt;[ ] Playtesting&lt;/li&gt;
+&lt;li&gt;[ ] Final Release&lt;/li&gt;
+&lt;li&gt;[ ] INA&#39;NIS (Support/Controller?)
+- &lt;em&gt;Current Status&lt;/em&gt;: Imploding. Either a tech-attacker/supporter or a drone user? I have designed at least 4 different versions of this frame, and none of them work the way I imagine them too. Player feedback has been rough. Might have to move work on this frame last, instead of second.
+&lt;ul&gt;
+&lt;li&gt;[x] Planning&lt;/li&gt;
+&lt;li&gt;[ ] Design&lt;/li&gt;
+&lt;li&gt;[ ] Dev&lt;/li&gt;
+&lt;li&gt;[ ] Playtesting&lt;/li&gt;
+&lt;li&gt;[ ] Final Release&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[ ] GURA (Striker)
+- &lt;em&gt;Current Status&lt;/em&gt;: Designing. Melee-focused, with mobility. General themes and ideas locked in. About half the license looks good, but the other half needs many adjustments to feel &lt;em&gt;right&lt;/em&gt;.
+&lt;ul&gt;
+&lt;li&gt;[x] Planning&lt;/li&gt;
+&lt;li&gt;[ ] Design&lt;/li&gt;
+&lt;li&gt;[ ] Dev&lt;/li&gt;
+&lt;li&gt;[ ] Playtesting&lt;/li&gt;
+&lt;li&gt;[ ] Final Release&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[ ] WATSON (Striker/Support? Artillery?)
+- &lt;em&gt;Current Status&lt;/em&gt;: Welp. The general themes for this one is GUN GUN GUN, but also Time Shennanigans. Still early to say. At some point toyed with the idea of it having an AOE attack surrounding it, as a form of mom-stomp. Now... Well.
+&lt;ul&gt;
+&lt;li&gt;[ ] Planning&lt;/li&gt;
+&lt;li&gt;[ ] Design&lt;/li&gt;
+&lt;li&gt;[ ] Dev&lt;/li&gt;
+&lt;li&gt;[ ] Playtesting&lt;/li&gt;
+&lt;li&gt;[ ] Final Release&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[ ] CALLIOPE (Striker? Artillery? Controller?)
+- &lt;em&gt;Current Status&lt;/em&gt;: Guh. I am not going for the obvious bait, because it&#39;s &lt;em&gt;obvious&lt;/em&gt;. Instead, the keyword is &lt;em&gt;sound&lt;/em&gt; (because &lt;em&gt;music&lt;/em&gt;). Been cooking some ideas but it&#39;s way too early to tell.
+&lt;ul&gt;
+&lt;li&gt;[ ] Planning&lt;/li&gt;
+&lt;li&gt;[ ] Design&lt;/li&gt;
+&lt;li&gt;[ ] Dev&lt;/li&gt;
+&lt;li&gt;[ ] Playtesting&lt;/li&gt;
+&lt;li&gt;[ ] Final Release&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
 </feed>
