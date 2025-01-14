@@ -8,26 +8,31 @@
 	
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/about/</loc>
-		<lastmod>2024-11-08</lastmod>
+		<lastmod>2025-01-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/blog/</loc>
-		<lastmod>2024-11-08</lastmod>
+		<lastmod>2025-01-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/</loc>
-		<lastmod>2024-11-08</lastmod>
+		<lastmod>2025-01-14</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://anatoleserial.com/eleventy-base-blog/tag-pages/</loc>
+		<lastmod>2025-01-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/tags/</loc>
-		<lastmod>2024-11-08</lastmod>
+		<lastmod>2025-01-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://anatoleserial.com/eleventy-base-blog/feed/feed.xml</loc>
-		<lastmod>2024-11-08</lastmod>
+		<lastmod>2025-01-14</lastmod>
 	</url>
 </urlset>
