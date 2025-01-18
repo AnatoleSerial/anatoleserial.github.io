@@ -1,10 +1,3 @@
----
-title: Hello, World
-description: A start.
-date: 2024-11-08
-tags: ramble
----
-
 ## On Blogs and Online Publishing
 
 It sucks. But sometimes it's the only way to put ideas out there.
