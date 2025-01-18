@@ -10,7 +10,8 @@ import pluginFilters from "./_config/filters.js";
 export default async function (eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+		// if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+			if (data.draft) {
 			return false;
 		}
 	});
@@ -55,7 +56,7 @@ export default async function (eleventyConfig) {
 		stylesheet: "pretty-atom-feed.xsl",
 		templateData: {
 			eleventyNavigation: {
-				key: "Feed",
+				key: "feed",
 				order: 4
 			}
 		},

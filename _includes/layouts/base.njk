@@ -6,7 +6,9 @@
 				<title>{{ title or metadata.title }}</title>
 				<meta name="description" content="{{ description or metadata.description }}">
 				<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
-				<link rel="stylesheet" href="https://unpkg.com/98.css"/>
+				<link rel="preconnect" href="https://fonts.googleapis.com">
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+				<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
 
 				{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
 				{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
@@ -39,43 +41,32 @@
 				{#- Add the heading-anchors web component to the JavaScript bundle #}
 				{#- {%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %} #}
 		</head>
-		<body>
-				<aside>
-						<ul class="tree-view">
-								{%- for entry in collections.all | eleventyNavigation %}
-										<li>
-												<a href="{{ entry.url }}">{{ entry.title }}</a>
-										</li>
-								{%- endfor %}
-						</ul>
-				</aside>
-				<main>
-						<div class="window" style="width: 80%">
-								<div class="title-bar">
-										<div class="title-bar-text">
-												{{ metadata.title }}
-										</div>
-										<div class="title-bar-controls">
-												<button aria-label="Minimize"></button>
-												<button aria-label="Maximize"></button>
-												<button aria-label="Close"></button>
-										</div>
-								</div>
-								<div class="window-body">
-										<!-- <heading-anchors> -->
-												{{ content | safe }}
-										<!-- </heading-anchors> -->
-								</div>
-								<div class="status-bar">
-										<footer>
-												<p class="status-bar-field">
-														<em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a> </em> @ {% currentBuildDate %}
-												</p>
-										</footer>
-								</div>
+		<body class="noto-sans-mono-base400">
+				<ul class="navigation">
+					<li><i>NAVIGATION:</i></li>
+						{%- for entry in collections.all | eleventyNavigation %}
+								<li>
+										<a href="{{ entry.url }}">{{ entry.title }}</a>
+								</li>
+						{%- endfor %}
+						<li>&#x25C6;</li>
+						<li><i>SOCIALS:</i></li>
+						{%- for name, url in links.socials %}
+							<li><a href="{{ url }}">{{ name }}</a></li>
+						{%- endfor %}
+				</ul>
+			<div class="window">
+					{# <h2>{{ metadata.title }}</h2> #}
+					{{ content | safe }}
+					<div>
+						<p class="bottom-footer">
+								<em>Built with
+										<a href="https://www.11ty.dev/">{{ eleventy.generator }}</a>
+								</em> on {% currentBuildDate %}
+						</p>
+					</div>
 
-								<script type="module" src="{% getBundleFileUrl "js" %}"></script>
-						</div>
-				</main>
+					<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+			</div>
 		</body>
 </html>
