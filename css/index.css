@@ -4,27 +4,21 @@ body {
 	background: #c0c0c0;
 }
 
-main {
+/* main {
 	width: 65rem;
 	margin-left: 240px;
 	margin-bottom: 60px;
-}
+} */
 
-aside {
-	width: 200px;
+/* aside {
 	position: fixed;
 	top: 0;
-	bottom: 0;
-	padding: 8px;
+	right: 0;
+	padding: 0px;
 	display: flex;
 	align-items: stretch;
-}
-
-aside .tree-view {
-	width: 100%;
-	/* TODO: Move scrollbar into the recessed region? */
-	overflow-y: scroll;
-}
+	flex-flow: row;
+} */
 
 h1 {
 	margin: 12px 0;
@@ -32,10 +26,12 @@ h1 {
 
 hr {
 	margin: 0;
-	border: none;
-	width: 400px;
+	/* border: none; */
+	max-width: 1024px;
 	height: 1px;
-	opacity: 0.5;
+	background: black;
+	border: 2px solid black;
+	/* opacity: 0.5;
 	background: linear-gradient(to right,
 			red 20%,
 			yellow 20%,
@@ -43,25 +39,24 @@ hr {
 			green 36%,
 			green 60%,
 			blue 60%,
-			blue 100%);
+			blue 100%); */
 }
 
 h2 {
-	margin-bottom: 12px;
+	margin-bottom: 6px;
 }
 
 h3,
 h4 {
 	/* Swap the margin for a top-padding so linking to this section
      results in a better scroll position */
-	padding-top: 20px;
+	padding-top: 10px;
 	margin-top: 0;
 	display: block;
 	flex: 0 0 180px;
 }
 
 p {
-	max-width: 50rem;
 	line-height: 1.5;
 }
 
@@ -110,7 +105,7 @@ button.active {
 		inset -2px -2px #dfdfdf, inset 2px 2px #808080;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 1024px) {
 	aside {
 		display: none;
 	}
@@ -123,10 +118,6 @@ button.active {
 	}
 
 	hr {
-		width: 100%;
-	}
-
-	p {
 		width: 100%;
 	}
 
@@ -163,4 +154,45 @@ h3 {
 h4 {
 	font-size: 1.2rem;
 	font-weight: bold;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 900 */
+.noto-sans-mono-base400 {
+  font-family: "Noto Sans Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.navigation {
+	display: flex;
+	list-style: none;
+	flex-wrap: wrap;
+	padding: 0;
+	margin: 10px;
+}
+
+.navigation li {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.window {
+	margin: 10px;
+	max-width: 1024px;
+}
+
+.bottom-footer {
+	font-size: x-small;
+}
+
+.bottom-foot {
+	font-size: small;
+}
+
+p {
+	max-width: 1024px;
 }
