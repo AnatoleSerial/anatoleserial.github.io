@@ -5,11 +5,57 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self" />
   <link href="https://example.com/eleventy-base-blog/" />
-  <updated>2025-02-20T00:00:00Z</updated>
+  <updated>2025-04-07T00:00:00Z</updated>
   <id>https://example.com/eleventy-base-blog/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Encounters in LANCER</title>
+    <link href="https://example.com/eleventy-base-blog/blog/2025/20250407/" />
+    <updated>2025-04-07T00:00:00Z</updated>
+    <id>https://example.com/eleventy-base-blog/blog/2025/20250407/</id>
+    <content type="html">&lt;p&gt;The other day I was in Pilot NET&#39;s GM channel, and I asked a question that&#39;s been bugging me for a while:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Assuming you start from scratch and have access to your players&#39; character sheets, what is the shortest amount of time it takes you to prepare a session?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The responses were most interesting, and coupled with other discussions that have taken place in that channel, it illuminates an issue that affects not just me, but many other Game Masters.&lt;/p&gt;
+&lt;p&gt;You see, the general wisdom in the GM channel is that preparing a Lancer session can take a short amount of time &lt;em&gt;when there are only Narrative&lt;/em&gt; scenes, but a &lt;em&gt;much&lt;/em&gt; longer time if the session will have combat.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Q: &amp;quot;What if you &lt;em&gt;don&#39;t know&lt;/em&gt; whether the session will have combat or not?&amp;quot;
+A: &amp;quot;I will know. I can read my players. I&#39;m pretty good at that.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Not helpful.&lt;/p&gt;
+&lt;p&gt;But let&#39;s say the players throw you a curve ball. You had no combat planned. They just walked into one. What is the GM Wisdom that is dispensed, repeatedly, on Pilot NET?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Just stop the session and come back next time with a planned combat, man!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hah. Bummer.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-suck-at-session-planning&quot;&gt;How to Suck at Session Planning&lt;/h2&gt;
+&lt;p&gt;Hi. I used to suck at Session Planning. I suck at &lt;em&gt;running&lt;/em&gt; the Session, still, but I&#39;ve gotten better at &lt;em&gt;planning&lt;/em&gt; the Session. Of &lt;em&gt;any&lt;/em&gt; TTRPG I&#39;ve run.&lt;/p&gt;
+&lt;p&gt;I can tell you, exactly, how much I sucked at Session Planning. Bring on the Bullet Points!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I spent a long time doing world building.&lt;/li&gt;
+&lt;li&gt;NPCs? Dozens! DOZENS! You&#39;ll never know when you&#39;ll need the full, hyperdetailed statline of &lt;strong&gt;BOB THE BARKEEP&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;I made FLOW CHARTS. Planned for &lt;em&gt;every eventuality&lt;/em&gt;. Carefully Curated!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was great. It sucked big time. I ran many games that were mildly memorable not for their story or their moments, but because of how painful it was to run them.&lt;/p&gt;
+&lt;p&gt;Then one day I ran a one-shot. Half-planned. Lots of off-the-cuff stuff. I had a clear idea of the &lt;em&gt;moments&lt;/em&gt; I wanted to highlight, but everything in between? Free rein.&lt;/p&gt;
+&lt;p&gt;To this day it remains one of the most satisfying &lt;em&gt;Vampire: The Dark Ages&lt;/em&gt; games I&#39;ve ever run.&lt;/p&gt;
+&lt;p&gt;What, you thought I was talking Lancer? Oh my sweet child this happened &lt;em&gt;years&lt;/em&gt; before Lancer was even conceived in its parents&#39;... uh... brain... wombs.&lt;/p&gt;
+&lt;p&gt;I started running more prep-light games around the time &lt;a href=&quot;https://slyflourish.com/&quot;&gt;Mike Shea of Sly Flourish&lt;/a&gt; was starting to publish his &amp;quot;Lazy DM&amp;quot; stuff (Which I ended reading many, &lt;em&gt;many&lt;/em&gt; years later).&lt;/p&gt;
+&lt;p&gt;Then I had a long, &lt;em&gt;long&lt;/em&gt; dry spell of running games.&lt;/p&gt;
+&lt;p&gt;Then I came back. Fell back into the bad habits -- in some, way worse than before.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MORE WORLDBUILDING.&lt;/li&gt;
+&lt;li&gt;HIGHLY PLANNED MAPS.&lt;/li&gt;
+&lt;li&gt;HACKING SITREPS FOR FUN AND PROFIT BUT MOSTLY &amp;quot;FUN&amp;quot;.&lt;/li&gt;
+&lt;li&gt;MULTIPLE OPFORS WITH LOTS OF INTERACTING PARTS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The reason was Lancer. I had to learn a new system, so I leaned hard on &lt;em&gt;the system&lt;/em&gt;. Running Lancer this way made me forget how much I love &lt;em&gt;not&lt;/em&gt; planning TTRPG sessions extensively. It made me &lt;em&gt;hate&lt;/em&gt; running my shitty-ass combat sessions. Even if the players had fun, the problem was that &lt;em&gt;I&lt;/em&gt; was &lt;strong&gt;fucking miserable&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Lancer, as a system, is not bad. It&#39;s well made. It&#39;s just a &lt;em&gt;friction&lt;/em&gt; between its grand Narrative, its promising, hopeful, liberating &lt;strong&gt;FICTION&lt;/strong&gt;, and its fine-grained, flexible yet delicate &lt;em&gt;and necessary&lt;/em&gt; &lt;strong&gt;MECH COMBAT SYSTEMS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;And me, being a &lt;em&gt;very&lt;/em&gt; Narrative kinda guy, planning and then running Lancer combat as-is, just &lt;em&gt;hurts&lt;/em&gt;. So let&#39;s deconstruct, bit by bit, what are the pieces in Lancer that cause this friction between its Narrative and Mechanical Systems, from a Game Master&#39;s perspective, and try to find some ways to grease them up, while also devising tools that can help run games with less prep and more &lt;em&gt;pawnch&lt;/em&gt;. KA-POW!&lt;/p&gt;
+&lt;h2 id=&quot;gming-lancer-by-the-book&quot;&gt;GMing Lancer by The Book&lt;/h2&gt;
+</content>
+  </entry>
   <entry>
     <title>on the fucking neil gaiman thing ffs</title>
     <link href="https://example.com/eleventy-base-blog/blog/2025/20250220/" />
