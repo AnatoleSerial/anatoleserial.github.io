@@ -53,7 +53,54 @@ A: &amp;quot;I will know. I can read my players. I&#39;m pretty good at that.&am
 &lt;p&gt;The reason was Lancer. I had to learn a new system, so I leaned hard on &lt;em&gt;the system&lt;/em&gt;. Running Lancer this way made me forget how much I love &lt;em&gt;not&lt;/em&gt; planning TTRPG sessions extensively. It made me &lt;em&gt;hate&lt;/em&gt; running my shitty-ass combat sessions. Even if the players had fun, the problem was that &lt;em&gt;I&lt;/em&gt; was &lt;strong&gt;fucking miserable&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Lancer, as a system, is not bad. It&#39;s well made. It&#39;s just a &lt;em&gt;friction&lt;/em&gt; between its grand Narrative, its promising, hopeful, liberating &lt;strong&gt;FICTION&lt;/strong&gt;, and its fine-grained, flexible yet delicate &lt;em&gt;and necessary&lt;/em&gt; &lt;strong&gt;MECH COMBAT SYSTEMS&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;And me, being a &lt;em&gt;very&lt;/em&gt; Narrative kinda guy, planning and then running Lancer combat as-is, just &lt;em&gt;hurts&lt;/em&gt;. So let&#39;s deconstruct, bit by bit, what are the pieces in Lancer that cause this friction between its Narrative and Mechanical Systems, from a Game Master&#39;s perspective, and try to find some ways to grease them up, while also devising tools that can help run games with less prep and more &lt;em&gt;pawnch&lt;/em&gt;. KA-POW!&lt;/p&gt;
-&lt;h2 id=&quot;gming-lancer-by-the-book&quot;&gt;GMing Lancer by The Book&lt;/h2&gt;
+&lt;h2 id=&quot;gming-lancer-by-the-book&quot;&gt;GMing Lancer, by The Book&lt;/h2&gt;
+&lt;p&gt;The Lancer core book comes in two flavors: The &lt;em&gt;Player-facing&lt;/em&gt; book is &lt;em&gt;free&lt;/em&gt; on itch.io and contains all you need to make a character. It contains literally &lt;em&gt;two pages of lore&lt;/em&gt; (10-11), followed by character creation (-37) &lt;em&gt;Narrative rules&lt;/em&gt; (-55, or 19 pages), &lt;em&gt;Mech Combat&lt;/em&gt; (-84, or 28 pages), and finally a whooping &lt;em&gt;167 pages&lt;/em&gt; of player options. &lt;strong&gt;FOR FREE&lt;/strong&gt;. The paid book has two more sections: The Game Master&#39;s Guide (254-333, or &lt;em&gt;79 pages&lt;/em&gt;), and 90-something pages of &lt;strong&gt;LORE&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, what does a GM need to &lt;em&gt;actually run Lancer?&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-game-masters-guide&quot;&gt;The Game Master&#39;s Guide&lt;/h3&gt;
+&lt;p&gt;This chapter starts with some basic GM principles. Good stuff. Enumerated, but not detailed because if you&#39;re reading this you know them already:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I. Facilitate fun
+II. Renounce Control
+III. Consider your Players
+IV. Say Yes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All good stuff. Then it proceeds to &lt;em&gt;didactically&lt;/em&gt; outline how to &lt;em&gt;set up&lt;/em&gt; the game: Setup a session! Have a map! Take notes! Ask your players questions! Et cetera. This whole section is all the guidance you&#39;ll get for prep. It is a &lt;em&gt;guide&lt;/em&gt; after all! A starting point! Thanks, John Lancer!&lt;/p&gt;
+&lt;p&gt;Then, a new section on &lt;em&gt;running&lt;/em&gt; the game that mentions all the nice principles that have existed since forever, along with ones that emerged in the wake of Apocalypse World, Blades in the Dark, among other game-changing TTRPGs (Here&#39;s why you need Skill checks! Communicate the Stakes! Fail Forward! Reward them!). Again, good stuff.&lt;/p&gt;
+&lt;p&gt;Then we get into tables for Sitreps and Worldbuilding, and using NPCs and NPCs in Combat and Balancing Combats. Then, the &lt;em&gt;bestiary&lt;/em&gt; of NPC options. Useful.&lt;/p&gt;
+&lt;p&gt;I am not dissing on Lancer&#39;s Game Master&#39;s Guide here, do I? I mean, it &lt;em&gt;is&lt;/em&gt; good advice. In general.&lt;/p&gt;
+&lt;h3 id=&quot;running-the-game&quot;&gt;Running the game?&lt;/h3&gt;
+&lt;p&gt;What happens when you follow the guide&#39;s advice? Well, uh. Not much. If you try to run it as-is, you start encountering questions without an easy answer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When combat starts, you need to put NPCs on the table. Did you prepare them in advance? If you didn&#39;t, you have to figure out what kind of templates, optionals, and so on they should have. This takes &lt;em&gt;time&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;How about that combat map? If you didn&#39;t prepare one in advance, you have to quickly put one together. Maybe you can draw it quickly, or get one from the many resources available. But this, too, takes &lt;em&gt;time&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;When someone, anyone, initiates hostile action while in a mech, the combat starts, and according to the book you have to prepare all of this. What if the combat has little narrative consequence? Can you prepare &lt;em&gt;on the fly&lt;/em&gt;? How much time will you invest? Does the outcome of this combat even &lt;em&gt;matter&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The book doesn&#39;t help with these. Lancer&#39;s Mech Combat is a rigid beast that provides engaging and fun tactical combat -- at the expense of &lt;em&gt;time&lt;/em&gt;. It stands in stark contrast with its Narrative rules, which are lightweight and loose, providing a framework for both &lt;em&gt;rules&lt;/em&gt; and &lt;em&gt;rulings&lt;/em&gt; that let players influence the narrative directly.&lt;/p&gt;
+&lt;p&gt;For a lot of people, this is fine. Mech Combat is &lt;em&gt;the&lt;/em&gt; minigame, the startegy minigame that happens between narrative stuff. There&#39;s videogames like that! Except the videogame obviates a lot of the work that goes into these two systems&#39; coexistance. It seemingly flows from one into the other because it &lt;em&gt;is&lt;/em&gt; a rigid narrative: even with branching paths, there are only so many endings you can get. A TTRPG ain&#39;t like that.&lt;/p&gt;
+&lt;p&gt;Many GMs that come from more narrative-oriented schools (a.k.a. theater/improv kids) or who come from systems in which a session can be planned with ease, will struggle with Lancer immensely.&lt;/p&gt;
+&lt;p&gt;I know because I am one of those people. And this document is how I am trying to change things, for all of us.&lt;/p&gt;
+&lt;p&gt;A lot of the things I will propose here will not be for everyone. That&#39;s fine. We&#39;re talking about making Lancer more capable of supporting a variety of player and GM styles. The book&#39;s own Game Master&#39;s Guide says so: it is just a starting point. So let&#39;s find new directions.&lt;/p&gt;
+&lt;h2 id=&quot;new-directions&quot;&gt;NEW DIRECTIONS&lt;/h2&gt;
+&lt;p&gt;The starting point for this document is &lt;a href=&quot;https://valkyrion.itch.io/&quot;&gt;Valkyrion&lt;/a&gt;&#39;s absolutely excellent comments in Pilot NET. They are an inspiration, and I will reproduce some of his stuff here in full, as a springboard.&lt;/p&gt;
+&lt;p&gt;Here&#39;s the comment that sparked this text:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have a big collection of ideas brewing about making more player-driven and high-staked combats, and the major components on my mind are currently:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The Combat conflict resolution steps I linked way back&lt;/li&gt;
+&lt;li&gt;Deconstructed sitreps, abstracted into pieces that can be interacted with and used as player-driven objectives&lt;/li&gt;
+&lt;li&gt;Concise enemy faction rosters deployed as part of a Mission-scale budget instead of a combat-scale one&lt;/li&gt;
+&lt;li&gt;Combat-Agnostic, fiction-first mapmaking&lt;/li&gt;
+&lt;li&gt;Morale, Reinforcements, and Retreat procedures&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As you can see, a lot of these are designed to make combat a more interesting beast. Here are some notes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;This &amp;quot;Combat-as-Conflict Resolution&amp;quot; idea is an excellent starting point to turn combats into &lt;em&gt;connective tissue&lt;/em&gt;. It is an abstract framework on how to think about combats that can definitely work not just in Lancer, but any game, really.&lt;/li&gt;
+&lt;li&gt;&amp;quot;Sitreps&amp;quot; provide a way to make combat a more robust mini-game. The problem is that they are rather &lt;em&gt;inflexible&lt;/em&gt;. When other GMs in Pilot NET talk about Sitreps, the conversation is almost always mechanical, about budgets and maps and so on. What is rarely discussed is their &lt;em&gt;narrative&lt;/em&gt; role, and how Sitreps can be used to enhance the narrative -- if you are willing to break them apart and use them in a &lt;em&gt;different&lt;/em&gt; way. I will explore some of my ideas later.&lt;/li&gt;
+&lt;li&gt;This is a good idea on paper, but I also think it is too much planning, in general. My focus on this topic is less on a &amp;quot;Mission-scale budget&amp;quot; and more on a &amp;quot;What if I need a combat &lt;em&gt;right now&lt;/em&gt;&amp;quot; or &amp;quot;I have 30 minutes to prep a game how can I do it as &lt;em&gt;effortlessly as possible&lt;/em&gt;?&amp;quot;. Factions is a good idea, and I have a potential framework for them.&lt;/li&gt;
+&lt;li&gt;Mapmaking is... complicated. But I do have an idea to improve the amount of time it takes to prepare a map by doing some prior prep. Invest time now, reap the rewards much later.&lt;/li&gt;
+&lt;li&gt;Morale, Reinforcements and Retreat procedures: I have exactly &lt;em&gt;one&lt;/em&gt; idea for each of these.&lt;/li&gt;
+&lt;/ol&gt;
 </content>
   </entry>
   <entry>
