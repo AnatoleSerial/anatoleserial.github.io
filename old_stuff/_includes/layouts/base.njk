@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title or metadata.title }}</title>
+		<meta name="description" content="{{ description or metadata.description }}">
+		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
+
+		{#- Add an arbitrary string to the bundle #}
+		{# {%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}#}
+		{#- Add the contents of a file to the bundle #}
+		{%- css %}{% include "public/css/index.css" %}{% endcss %}
+		{#- Or you can add from node_modules #}
+		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
+
+		{#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
+		<style>
+				{% getBundle "css" %}
+		</style>
+		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
+	</head>
+	<body class="noto-sans-mono-base400">
+		<ul class="navigation">
+			<li><i>NAVIGATION:</i></li>
+			{%- for entry in collections.all | eleventyNavigation %}
+				<li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+			{%- endfor %}
+			<li>&#x25C6;</li>
+			<li><i>SOCIALS:</i></li>
+			{%- for name, url in links.socials %}
+				<li><a href="{{ url }}">{{ name }}</a></li>
+			{%- endfor %}
+		</ul>
+		<div class="window">
+				{# <h2>{{ metadata.title }}</h2> #}
+				{{ content | safe }}
+				<div>
+					<p class="bottom-footer">
+							<em>Built with
+									<a href="https://www.11ty.dev/">{{ eleventy.generator }}</a>
+							</em> on {% currentBuildDate %}
+					</p>
+				</div>
+
+				<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+		</div>
+	</body>
+</html>
