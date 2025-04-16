@@ -5,11 +5,18 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self" />
   <link href="https://example.com/eleventy-base-blog/" />
-  <updated>2025-04-08T00:00:00Z</updated>
+  <updated>2025-04-16T08:40:31Z</updated>
   <id>https://example.com/eleventy-base-blog/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://example.com/eleventy-base-blog/blog/2025/20250409/" />
+    <updated>2025-04-16T08:40:31Z</updated>
+    <id>https://example.com/eleventy-base-blog/blog/2025/20250409/</id>
+    <content type="html"></content>
+  </entry>
   <entry>
     <title>Encounters in LANCER (pt 2)</title>
     <link href="https://example.com/eleventy-base-blog/blog/2025/20250408/" />

@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="en">
-		<head>
-				<meta charset="utf-8">
-				<meta name="viewport" content="width=device-width, initial-scale=1.0">
-				<title>AnatoleSerial.com</title>
-				<meta name="description" content="Regrettably, A Web Site.">
-				<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="AnatoleSerial.com">
-				<link rel="preconnect" href="https://fonts.googleapis.com">
-				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-				<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
-				
-				
-				<style>
-						body {
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>AnatoleSerial.com</title>
+		<meta name="description" content="Regrettably, A Web Site.">
+		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="AnatoleSerial.com">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
+		
+		
+		<style>
+				body {
 	margin: 0;
 	padding: 0;
 	background: #c0c0c0;
@@ -210,97 +210,38 @@ h4 {
 p {
 	max-width: 1024px;
 }
-				</style>
-		</head>
-		<body class="noto-sans-mono-base400">
-				<ul class="navigation">
-					<li><i>NAVIGATION:</i></li>
-								<li>
-										<a href="/eleventy-base-blog/">home</a>
-								</li>
-								<li>
-										<a href="/eleventy-base-blog/blog/">blog-archive</a>
-								</li>
-								<li>
-										<a href="/eleventy-base-blog/feed/feed.xml">feed</a>
-								</li>
-								<li>
-										<a href="/eleventy-base-blog/about/">about</a>
-								</li>
-						<li>&#x25C6;</li>
-						<li><i>SOCIALS:</i></li>
-							<li><a href="https://mastodon.online/@AnatoleSerial">mastodon</a></li>
-							<li><a href="https://bsky.app/profile/anatoleserial.bsky.social">bluesky</a></li>
-				</ul>
-			<div class="window">
-					
-					
+		</style>
+	</head>
+	<body class="noto-sans-mono-base400">
+		<ul class="navigation">
+			<li><i>NAVIGATION:</i></li>
+				<li><a href="/eleventy-base-blog/">home</a></li>
+				<li><a href="/eleventy-base-blog/blog/">blog-archive</a></li>
+				<li><a href="/eleventy-base-blog/feed/feed.xml">feed</a></li>
+				<li><a href="/eleventy-base-blog/about/">about</a></li>
+			<li>&#x25C6;</li>
+			<li><i>SOCIALS:</i></li>
+				<li><a href="https://mastodon.online/@AnatoleSerial">mastodon</a></li>
+				<li><a href="https://bsky.app/profile/anatoleserial.bsky.social">bluesky</a></li>
+		</ul>
+		<div class="window">
+				
+				
 
 <h2 id="i-regret-to-inform-you-this-is-anatoleserial-com">I regret to inform you this is AnatoleSerial.com</h2>
-<h2 id="latest-post-encounters-in-lancer-pt-2"><i>Latest post:</i> Encounters in LANCER (pt 2)</h2>
+<h2 id="latest-post"><i>Latest post:</i> </h2>
 <hr>
-<h2 id="previously">Previously...</h2>
-<p>In the last post we talked about <em>why</em>, in our opinion, the disconnection between Lancer's Narrative and Mech Combat systems makes it harder to run, particularly if you aim to have a game with stronger narrative elements. We examined Lancer's core assumptions, and discarded/replaced the parts that were pigeonholing the game into a specific playstyle. Now, we're going deeper into the rabbit hole, as we examine the role of Skill Checks and Mech Combat, and how these two are not so distinct after all</p>
-<h2 id="solving-problems-skill-checks-vs-combats">Solving problems: Skill Checks vs Combats</h2>
-<h3 id="whats-in-a-skill-check">What's in a Skill Check?</h3>
-<p>Skill rolls in Lancer are not that different from most dice rolls in TTRPGs, really. Let's write down a generic flow for a Lancer roll:</p>
-<ol>
-<li>The GM presents to the player the current state of the story.</li>
-<li>The Player states their Character's intent: <em>What</em> and <em>how</em> they want to accomplish a task.</li>
-<li>If the task cannot fail, or there is no interesting consequences for failure, then the action automatically succeeds.</li>
-<li>The GM communicates what the roll entails, including how the situation can change from their success/failure. <em>Up to this point, the Player can still choose to alter or even stop their action altogether</em>.</li>
-<li>The Player rolls a D20, with modifiers based on the situation and intent.</li>
-<li>The GM adjudicates the roll, narrating the consequences, which set up a <em>change</em> in the state of the story.</li>
-</ol>
-<p>This framing provides two keypoints to understand:</p>
-<ul>
-<li>A player character's action <em>will</em> change the current state of the story/world, regardless of the Skill roll's result.</li>
-<li>The Skill roll only needs to occur if failure is interesting, essentially if <em>failure changes the state of the world</em>.</li>
-</ul>
-<p>This means that <em>player character actions will move the story forward</em> and <em>skill rolls resolve uncertainty</em>. And as it stands, this last point can be further generalized to &quot;<em>dice rolls resolve uncertainty</em>&quot;.</p>
-<p>This instantly opens all sorts of possibilities: character actions should not be limited to short-term actions. A long-term project can be simplified with a roll, if any intermediate potential failure is not interesting. On the other end of the spectrum, a long-term project can become interesting if it requires multiple rolls in succession, each one having impact on the project's final result.</p>
-<p>So anyways, in Lancer, that's how Skill rolls work in general. And if you think about it, maybe Attack rolls are the same?</p>
-<h3 id="combat-at-a-glance">Combat at a Glance</h3>
-<p>Combat requires two other kinds of rolls, Saves and Attacks. With the above framework, Saves can be a little weird, but otherwise work out: the task is baked into the roll time, and that is for the character is to pilot their mech to <em>avoid</em> an adverse effect. Attacks follow the same pattern as Skill checks: there's an intention, a chance for failure, and an adjudication that decides what happens on success or failure.</p>
-<p>But here's the thing: if we can turn long-term tasks into single-roll narratives, how about combats? Well... We certainly can, right?</p>
-<ol>
-<li>The GM presents to the player the current state of the story, which involves riding mechs into combat.</li>
-<li>The Player states their Character's intent: <em>What</em> they want out of the combat and <em>how</em> they want to accomplish that.</li>
-<li>If the task cannot fail, or there is no interesting consequences for failure, then the combat automatically ends in victory.</li>
-<li>The GM communicates what the combat roll entails, including how the situation can change from their success/failure. <em>Up to this point, the Player can still choose to alter or even stop their action altogether</em>.</li>
-<li>The Player rolls a D20, with modifiers based on the situation and intent.</li>
-<li>The GM adjudicates the roll, narrating the consequences, which set up a <em>change</em> in the state of the story.</li>
-</ol>
-<p>There you go. The simplest form of combat. It's not as <em>thrilling</em> as a full-blown tactical encounter, but on simpler encounters it can certainly do the trick to keep the story flowing. Maybe the PCs are fighting some mooks on the way to a bigger combat, or shooting the guards before waltzing into the enemy camp proper. If you're more interested in the bigger fight, maybe this fight cannot be lost: failure is just &quot;taking additional damage&quot; or &quot;starting combat with an adverse status effect&quot;.</p>
-<p>But here's the thing: what we care about is that the situation changes. Dice rolling is a resolution mechanic that determines the outcome of an uncertain situation. Combat, itself, is an <em>uncertain situation</em> that we <em>choose</em> to resolve with higher granularity and detail for the sake of spectacle and fun. This means that combat is, from an overhead view, also a way to resolve an <em>uncertain situation</em>. So let's focus on that!</p>
-<h2 id="combat-as-narrative-resolution">Combat as Narrative Resolution</h2>
-<p>While this is a thought I had been carrying for a while from my other gaming experiences, nebulous as it was, <a href="https://valkyrion.itch.io/">Valkyrion</a>'s own formulation hits the spot, so I am reproducing it here:</p>
-<blockquote>
-<ol>
-<li>The players name their goal.</li>
-<li>The GM decides and conveys the consequences of failing to achieve that goal. If there are no consequences, then the players automatically succeed.</li>
-<li>Determine the sitrep objective to use, if any, and if there are any special circumstances that would affect the situation (e.g., setting an ambush, fighting in heavy snow, special Reserves that could affect the battlefield).</li>
-<li>Execute the combat encounter using the sitrep objective and all special circumstances. On a Defeat, the players fail to accomplish their goal and suffer the established consequences. On a Victory, the players accomplish their goal.</li>
-<li>After the combat encounter is complete, the situation should <strong>change</strong> to reflect the effects of the encounter. On a defeat, the world should meaningfully change such that simply re-attempting the combat is not possible.</li>
-</ol>
-</blockquote>
-<p>My formulation includes a prior step, which is the Game Master presenting the world to the players, but it is otherwise fundamentally the same. What this framing does is reverse the order in which most people prepare a Lancer encounter: Most GMs prepare a finely-crafted map, opfor, sitrep, and then narratively must walk their players toward it, holding their hands along the way.</p>
-<p><strong>That's <em>bollocks</em></strong>.</p>
-<p>The ones who should choose to get in fights and how are the <em>players</em>, by interacting with the fiction. When the combat has <em>stakes</em>, the players can choose whether they want to engage the situation with violence or try another resolution mechanic. Similarly, the players' goal and the fiction inform the sitrep, the environment, the OPFOR, and so on.</p>
-<p>&quot;But Ana&quot;, you may ask, &quot;that all sounds really fine, but how do you prepare a full Lancer encounter on the fly?&quot;</p>
-<p>Well, first of all, it is perfectly acceptable for the GM to say, &quot;You guys picked a fight with the Red Wolves, so let's take 10 minutes while I set-up the fight&quot;, or in other words, execute step 3 of the above by taking into account the current state of the fiction. Second, you don't prepare a full Lancer encounter on the fly, silly! You prepare in advance <em>all the elements</em> you need to build a combat that <em>fits</em> the story and the players' actions.</p>
-<p>This is such a central point, that it is a motivation to build those frameworks/tools. The rest of this series is me creating and testing those tools, with the aim of <em>building Lancer Combat Encounters on-the-fly, tied to the campaign's fiction and in response to the player's intents</em>.</p>
 
 
-					<div>
-						<p class="bottom-footer">
-								<em>Built with
-										<a href="https://www.11ty.dev/">Eleventy v3.0.0</a>
-								</em> on 2025-04-11T08:49:04.397Z
-						</p>
-					</div>
+				<div>
+					<p class="bottom-footer">
+							<em>Built with
+									<a href="https://www.11ty.dev/">Eleventy v3.0.0</a>
+							</em> on 2025-04-16T08:40:44.664Z
+					</p>
+				</div>
 
-					
-			</div>
-		</body>
+				
+		</div>
+	</body>
 </html>
