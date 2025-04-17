@@ -2,7 +2,7 @@
 layout: base_nav.njk
 eleventyNavigation:
   key: Introduction
-  excerpt: Why are we doing this? Which of LANCER's assumptions can we challenge?
+  excerpt: Why are we doing this? And, how?
   parent: LANCER Garage
   order: 1
 ---
@@ -19,6 +19,22 @@ ANd the opposite happens too: the GM comes prepared for a full Narrative session
 
 That's what the first batch of ideas in this Garage are all about: how to do better LANCER prep, and how to run with funnier, less wasteful prep.
 
-## The Assumptions
+## Common Assumptions
 
-WIP
+There are many **Assumptions**, or things that are not necessarily written down but thought to be true enough that they influence the game's design, about how Lancer is meant to work as a Game. To illustrate this, let's see another famous game's assumptions.
+
+In *Dungeons and Dragons*, the players take the role of adventurers. The game's first core assumption is in its title: that these adventurers will brave the titular *dungeons*, in search of loot, fame, glory and so on. Even from early on its history, Dungeons and Dragons has been full of assumptions: on the average party composition, how they will travel, the kind of services they will hire in towns, and so on. Many sourcebooks across all editions make big assumptions on their design, which facilitate/hinder certain types of play.
+
+Lancer also has assumptions with similar effects. Some are narrative, others are mechanical, and they mostly facilitate play. For example:
+- In Lancer the player characters are *Competent Professionals* and *Competent Mech Pilots*. This is reflected in their Backgrounds, Skill Triggers, Talents and Mech Skills.
+- PC Mechs are always *a grade above* NPC Mechs. They're never mass produced, each one *fully personalized*.
+- Anything that cannot be explained by logic, reason or science, is Space Magic, or *Paracausality*. "It just works" is a valid thing to say.
+
+Those are straightforward, helpful assumptions. "Competency" can help when narrating: If a character says they attempt something, and it is something relatively easy for them to accomplish within their Competency, it doesn't just happen, it does so *easily*. Similarly PC mechs being *special* means that people eventually recognize them, for better or worse -- and GMs must keep this in mind when narrating NPC interactions. Similarly, Paracausality opens the door for a lot of *unusual / weird story elements* that would feel out of place in a sci-fi setting with a lot of Mech combat.
+
+However, in this Garage we want to look at some assumptions that, while useful, need to be re-examined in order to re-tune how to Prep and Run Lancer.
+
+1. The Mission Structure
+2. Reserves in General
+3. The How and Why of Mech Combat
+4. The Transition between Narrative and Mech Combat
