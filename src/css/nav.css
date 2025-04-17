@@ -1,0 +1,27 @@
+ul.navTop {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+}
+
+li.navItem {
+    float: left;
+}
+
+li.navItem a {
+    display: block;
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.navItem a:hover {
+    background-color: black;
+    color: white;
+}
