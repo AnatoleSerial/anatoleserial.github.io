@@ -1,4 +1,4 @@
-ul.navTop {
+.navTop {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -8,11 +8,13 @@ ul.navTop {
   border-bottom-width: 2px;
 }
 
-li.navItem {
+.navItem {
     float: left;
+    list-style-type: inherit;
 }
 
-li.navItem a {
+.navItem a {
+    list-style-type: inherit;
     display: block;
     color: black;
     background-color: white;
@@ -21,7 +23,7 @@ li.navItem a {
     text-decoration: none;
 }
 
-li.navItem a:hover {
+.navItem a:hover {
     background-color: black;
     color: white;
 }
