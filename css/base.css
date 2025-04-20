@@ -5,8 +5,54 @@
     font-style: normal;
 }
 
-h1, h2, h3, h4 {
-    font-family: "Special Gothic Expanded One", sans-serif;
+strong {
+    font-weight: 600;
+}
+
+em {
+    font-style: italic;
+}
+
+h1, h2 {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
+}
+
+h3, h4 {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+}
+
+header {
+    float: none;
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+header h1, header h2 {
+    font-size: 3em;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    margin: 8px;
+}
+
+footer {
+    margin: 8px;
+    font-size: smaller;
+    border-top-style: solid;
+    border-top-width: 2px;
 }
