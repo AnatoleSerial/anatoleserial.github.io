@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,12 +9,27 @@
   <link rel="stylesheet" href="/css/nav.css">
   <title>{{ title }}</title>
 </head>
+
 <body>
   <header>
     <h1>{{ title }}</h1>
   </header>
+  <nav class="navTop">
+    <div class="navItemHead">NAVi</div>
+    {%- for entry in collections.all | eleventyNavigation %}
+    <div class="navItem">
+      <a href="{{entry.url}}">
+        {{entry.title}}
+      </a>
+    </div>
+    {%- endfor %}
+  </nav>
   <main>
     {{ content | safe }}
   </main>
+  <footer>
+    <p>AnatoleSerial.com | Made with <a href="https://www.11ty.dev">11ty</a></p>
+  </footer> 
 </body>
+
 </html>

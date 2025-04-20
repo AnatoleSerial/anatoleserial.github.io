@@ -1,8 +1,12 @@
 ---
 layout: base_nav.njk
+title: LANCER Homebrew
 eleventyNavigation:
-  key: LANCER Homebrew
+  title: LANCER Homebrew
+  key: LANCER-Homebrew
   excerpt: New mechanical options for LANCER. For Players and GMs.
   parent: LANCER
-  order: 1
+  order: 2
 ---
+
+Nothing here *quite* yet. STAY TUNED.

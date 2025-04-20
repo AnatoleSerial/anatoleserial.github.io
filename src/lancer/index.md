@@ -1,7 +1,9 @@
 ---
 layout: base_nav.njk
+title: SERIAL Heavy Industries
 eleventyNavigation:
   key: LANCER
+  title: LANCER Fanstuff
   excerpt: A repository of LANCER fanworks, made by yours truly.
 navToMdOptions:
   showExcerpt: true
@@ -13,6 +15,4 @@ Lancer's setting *rocks*. Thousands of years into the future, many humans escape
 
 Lancer's *system* is, well, a bit of an *odd* one. In most normal situations involving the Player Characters, you will be playing under its **Narrative system**. Mechanically, it's relatively simple, if not *too simple*. It gets the job done, regardless. The characters have mech-related stats, and can build highly-customizable mechs influenced by those stats, which, it must be said, have literally no bearing on the Narrative system. When the pilots get on their machines and have to fight others, there's a big, *crunchy* as heck, actuall quite fun **Mech Combat system**.
 
-This page serves as a repository of my LANCER fan works.
-
-{{ collections.all | eleventyNavigation: "LANCER" | eleventyNavigationToMarkdown: navToMdOptions }}
+**SERIAL Heavy Industries** a repository of my LANCER fan works. See the **NAVi** above for the two main categories.

@@ -1,28 +1,3 @@
----js
-{
-  navigationOptions: {
-    listElement: "ul",            // Change the top level tag
-    listItemElement: "li",        // Change the item tag
-
-    listClass: "navTop",                // Add a class to the top level
-    listItemClass: "navItem",            // Add a class to every item
-    listItemHasChildrenClass: "navTop", // Add a class if the item has children
-    activeListItemClass: "",      // Add a class to the current page's item
-
-    anchorClass: "",              // Add a class to the anchor
-    activeAnchorClass: "",        // Add a class to the current page's anchor
-
-    // If matched, `activeListItemClass` and `activeAnchorClass` will be added
-    activeKey: "",
-    // It's likely you want to pass in `eleventyNavigation.key` here, e.g.:
-    // activeKey: eleventyNavigation.key
-
-    // Show excerpts (if they exist in data, read more above)
-    showExcerpt: false
-  }
-}
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,11 +9,28 @@
   <title>{{ title }}</title>
 </head>
 <body>
-  <header>
-    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml(navigationOptions) | safe }}
-  </header>
+  <header><h1>{{ title }}</h1></header>
+  <nav class="navTop">
+    <div class="navItemHead">NAVi</div>
+    {%- for entry in collections.all | eleventyNavigation(eleventyNavigation.key) %}
+    <div class="navItem">
+      <a href="{{entry.url}}">
+        {{entry.title}}
+      </a>
+    </div>
+    {%- endfor %}
+    <div class="navItem">
+      <script>
+        document.write('<a href="' + document.referrer + '">BACk</a>');
+      </script>
+    </div>
+  </nav>
+  
   <main>
     {{ content | safe }}
   </main>
+  <footer>
+    <p>Return to <a href="/">AnatoleSerial.com</a> | Made with <a href="https://www.11ty.dev">11ty</a></p>
+  </footer> 
 </body>
 </html>

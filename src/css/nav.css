@@ -1,5 +1,5 @@
 .navTop {
-  list-style-type: none;
+  list-style: disc outside none;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -10,11 +10,9 @@
 
 .navItem {
     float: left;
-    list-style-type: inherit;
 }
 
 .navItem a {
-    list-style-type: inherit;
     display: block;
     color: black;
     background-color: white;
@@ -26,4 +24,14 @@
 .navItem a:hover {
     background-color: black;
     color: white;
+}
+
+.navItemHead {
+    float: left;
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
