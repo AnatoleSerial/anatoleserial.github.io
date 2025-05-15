@@ -11,78 +11,77 @@ eleventyNavigation:
 
 # Why the name, "LANCER Garage"?
 
-A **Garage** is place where vehicles are sheltered and/or repaired. It seems almost natural that this concept would exist in a game about giant mechanized frames. In truth, the inspiration for my **LANCER Garage** lies in a different place than the concept of a "garage". Heck, it lies in a *different game*.
+A **Garage** is place where vehicles are sheltered and/or repaired. In a world with mechs, this also includes them. However, for **LANCER Garage**, the inspiration for my **LANCER Garage** lies in a different place than the concept of a "garage". Heck, it lies in a *different game*.
 
 ## Breaking Down and Fixing Things
 
-During **Vampire: The Requiem**'s first edition, the developers went out of their way to distance the game from its then-ended predecessor (*Vampire: The Masquerade*) by turning away from the former game's *Metaplot* and publishing books that expanded the *game-as-toolbox* approach. Two books stand out because their ideas truly transcend the game they were designed for: **Damnation City**, a book chock-full of ideas on how to build a city, its politics, and how to play as the people at the top of the hierarchyy; and **Requiem Chronicler's Guide**, a book that I can only describe as a *masterclass* on how to break down a game's components to put them back together for full customization. Each chapter provides an analysis of the themes and the kinds of stories you can tell with Vampires as protagonists, with various degrees of rules-tinkering. One such sections is called **Monster Garage**, and in it Jared Sorensen breaks down how the Requiem-the-game's Systems tie to Requiem-the-narrative's "Gothic Horror", and turns it on its head: it becomes a lean, mean game about monsters doing monstruous things, "The Lost Boys" but your players play the bad guys. The name resonates with that idea.
+The **Vampire: The Requiem** sourcebook **Requiem Chronicler's Guide** is a TTRPG hacker's *dream*: it's a bunch of developers just showing how you can break down narrative and mechanical parts of a game and just *go with it*. It's wild, even by VtR's standards.
 
-Of course, it is not the *only* inspiration for what we are doing here.
+You see, VtR is mostly about monsters holding on to their humanity, civilized parasites with control issues. The game has a bunch of systems that support this kind of gameplay. It's a good game, and the second edition is particularly *damned good*. The RCG explores many ways to use these systems to tell all sorts of stories.
 
-## A Philosophy for Game Mastering
+One of the sections is **Monster Garage**, and this one *slaps*. Jared Sorensen tore down the entire engine, kept only the essentials, and turned VtR into "The Lost Boys": a game about unrepentant, blood-drinking, true monsters.
 
-I have been Game Mastering for years. I will not claim to be an *expert* at it, but I have made enough mistakes to learn extensively from them. One of the most important points about Game Mastering that is easy to forget is that **the Game Master is a Player too**, so if you as a Game Master are aiming to make sure all players come out of the game thoroughly entertained, you also need to work on having fun with the whole thing. Which means that you have to make even the tedious tasks of *preparing the game* something that contributes to a kick-ass session. That means you have to approach Game Prepping and Mastering with a bit of philosophy. I can tell you my three top aims, as a GM:
+It was that section that made me realize that any TTRPG can, and probably *should*, be hacked by the one running it.
 
-1. Make the game fun.
-2. Prepare only what's necessary.
-3. Let the story flow.
+## Roll Call
 
-These three points are my own foundational way of thinking about Game Mastering. Your approach may differ, and that's fine. I find these three things guide me to be better at this, every time, and to design things that make the games I love more fun for me and my friends.
+Of course, it is not the *only* inspiration for what we are doing here. There are many TTRPG writers out there, both designers, GMs, and fans in general, who have shared their own ideas. Off the top of my head, I can tell you three who have influenced how I approach TTRPGs, and how I deconstruct them. I highly recommend their stuff:
 
-Of course, these ideas do not occur in a vacuum: they are the product of readin *way too much* about game theory, and coming up with my own conclusions. I encourage you to do the same. My top three authors on that regard are, in no particular order:
+- **Mike Shea** from [Sly Flourish](https://slyflourish.com/): Champion of prep-light roleplaying. Specializes in Dungeons and Dragons and D&D-likes, but his advice is mostly agnostic.
+- **Jason Alexander** from [The Alexandrian](https://thealexandrian.net/): Excellent stuff. He goes deep into the nitty gritty of running games, and how to run them better. His book, "So You Want To Be a Game Master?", should probably be given to new GMs instead of 5E's Dungeon Master's Guide.
+- **Vincent Baker** from [lumpley games](https://lumpley.games/): Creator of Apocalypse World, one of the most influential TTRPGs in the last 20 or so years. Writes a lot of essays about the nature of this hobby of ours.
 
-- **Mike Shea** from [Sly Flourish](https://slyflourish.com/): Champion of prep-light roleplaying. Focuses mostly on Dungeons and Dragons (and all games that have evolved from it), but his advice can apply to many other RPGs, often with better results.
-- **Jason Alexander** from [The Alexandrian](https://thealexandrian.net/): His Gamemaster 101 articles cover way more than introduction to GMing, they include a lot of different things that can spark new ideas you can implement at your table. It's high-concept stuff, but very well-written.
-- **Vincent Baker** from [lumpley games](https://lumpley.games/): Dude created Apocalypse World, the culmination of a lot of game design ideas that brewed in online forums. AW changed the hobby in ways subtle and overt. Baker's still writing quite a bit on game design too, so go on!
-
-So while I am telling you to read these people for the more in-depth, general advice, in this little site of mine we are gonna focus on a single RPG: LANCER. Mostly because it is a great game, but also because its flaws make it one hell of a challenge to run sometimes. And by sometimes I mean *quite often*.
+A lot of the analysis that makes positive outcomes in TTRPGs looks at the *failings* of TTRPGs, at the things that don't work or are ill-defined. Even the most comprehensive TTRPG cannot cover all bases -- which means that they are all incomplete rules systems. They are broken.
 
 # LANCER is broken (and that's a good thing)
 
- Over at Pilot NET, almost every day there is at least one message, from a prospective Game Master, who is asking other GMs for advice/help on how to run the game. They always get replies, because in general GMs love to help. This is a good thing. 
+ Over at Pilot NET, almost every day there is at least one message from a prospective Game Master,asking for advice/help on running the game. The replies are abundant, genuine, and helpful. The channel also has GMs sharing their work, brief play reports, and other stuff. It's a good place.
 
-On the same channel, GMs of varying experience show their work, trade anecdotes and tips on how to run certain types of encounters, and so on. This is a good thing.
+I have read enough from GMs, both old and new, and how they prepare for the game. Advice offered freely or prompted. I've seen the common *refrains*, the *assumptions* of how A Lancer Game should be.
 
-I have read a lot of what Lancer GMs have to say. A lot of their prep methods, the things they are anxious about, the things they struggle with. It is a lot. But, I have also noticed some common *refrains*, things that many GMs say and/or do, that make me think, *doesn't this kinda SUCK in some way*? Many GMs spend a lot of time doing *unnecessary* things, which is often true for TTRPGs in general, and even more so when the GMs lack experience. 
+I've seen GMs prepare dozens of NPCs, fully-statted, in advance. Countless maps. A yarnful of plot threads.
 
-Even experienced GMs arrive at the channel, showing intricate maps tied to fine-tuned enempy compositions, and writing long summaries of the lore they want to create and dossiers of all the NPCs they are designing for their future game/session. You can tell they are putting a lot of effort into it. Good for them!
+*And it all sucks*. It takes too much time to prepare all this, and as you know, most of it won't quite survive contact with the PCs anyways.
 
-What happens when, well, all that planning leads to *nothing*? The GM can prepare the biggest plans, but they will never survive contact with the players and their own ideas on what the game should be about. A GM wants to run a full Narrative sessions, yet the players are *itching* to hop into the mechs and go into combat *now* no matter what. Or the opposite: a complex combat, ruined thanks to a successful diplomacy roll.
+So how can we change that?
 
-That's why modern approaches to Game Mastering encourage creating *situations*, not strict events. And yet in the LANCER GM space, you keep seeing *events*. 
+## LANCER, by the book
 
-*Doesn't this kinda SUCK in some way*?
+While there is a strong gaming element in Lancer thanks to its crunchy combat, its setting is rife with potential stories.
 
-But here's the funny thing: the problem lies not just on the GM, but on the LANCER corebook itself.
+But those stories don't exist.
 
-## The Lancer Corebook preaches you one thing but asks of you another
+Even we as GMs do not create the stories -- they emerge from the interaction between a GM's window into the world, and the PCs' engagement with that world.
 
-To be fair, the GM section of the LANCER corebook is mostly alright. It has solid advice, chief of it being to *relinquish control* of the narrative. Let the players try and break things. Make their choices *matter*. The more *specific* things you prepare, the more you are *not* letting the narrative flow where it must.
+Part of the problem lies in how the corebook presents its systems. It has great advice on how to weave these stories, but then ties *mechanical* things, such as character advancement, with elements that are mostly *narrative* in nature (i.e. a Mission).
 
-Surely you can see the problems that arise here, yes? The book tells you to play fast and loose, and when combat comes, to whip out a map, some NPCs, and a sitrep to keep things spicy. Except:
+It's well-meaning, but messy. Couple that with the community's own ideas on the mechanics and setting, and you get a combination in which some assumptions are given as *nigh-gospel*. Here are some I have seen over the years, in my interactions with other LANCER GMs:
 
-- *Maps require time to prepare*. Throwing together a quick map is feasible for smaller skirmishes, but the *expected* average Lancer map is a tad too large for that. Which means that it might be better for the GM to prepare in advance... Except, well, if we're "rolling with the punches", *how much should we prepare in advance?*
-- *NPCs are not always easy & fast to make*. This is a side-effect of Lancer having a "bestiary" in which all enemies are made of legos: you can add and remove things from them. A *generic encounter* is easy to make, but if you're designing a set of enemies that fit the narrative, *you have to plan ahead*.
-- *Sitreps will not necessarily fit the narrative*, which is a big thing. If the combat is just a bunch of no-names pew-pew-ing against the PCs, that's not fun. Similarly, if the sitrep doesn't quite match the narrative, it will be jarring to run it. The current state of Sitreps as they are on the corebook is simply *insufficient* -- it's a good start though.
+- *You must prepare Maps in advance*. Few people dare to improvise a map. In person this is relatively easy, online not so much but still definitely doable with enough creativity and daring.
+- *You must prepare Combat Encounters in advance*. AKA "Preparing a Fancy Map with a Curated OpFor". This one's terrible. Unless you are playing through a tunnel with no way back, chances are the players will be perfectly capable of making choices that will lead to other encounters -- or no encounters at all.
+- *You must use SitReps*. Nothing wrong with using SitReps. Unless the narrative makes no sense. Most people present Encounters with their SitRep as these isolated things, and struggle to formulate why the Situation is the way it is, Narratively.
 
-Those are *some* of the most salient points that grind down Lancer prep. They're not all, and they're mostly from the perspective of one GM (me) who has both struggled and observed the ways in which other GMs have struggled. We can do better.
+This is not a criticism of those that do this kind of prep. The fact that these are so widespread is good evidence that a lot of GMs *enjoy* preparing games like this, and their players have *fun* with their games too. Kudos to them!
 
-LANCER inherits the language and trappings of TTRPGs and Wargaming. So when it calls its GMing section "guide", we must take it to heart: *it's just a guide*. Thus, we must also inherit how TTRPGs and Wargaming have evolved: **Hack the Game. Make it Yours.**
+I am here just to represent those of us who have *tried* doing that and have found it *lacking*. To point at the door on the other side of the hall and say, "maybe there's another way".
 
-## A list of things to break apart and put back together
+## Own It. Make It Yours.
 
-If we want to run Lancer with a leaner (even [lazy](https://shop.slyflourish.com/products/return-of-the-lazy-dungeon-master)) approach, we need to be willing to take a look at things as they are in the corebook, *break them apart* and then *put things back together*.
+I have a list of articles to write for this Garage. Each article examines part of LANCER under a different lens, as a way to present a different way of playing the game, one that adheres to a more *flexible* philosophy, providing options to players and GMs alike.
 
-Here is my list of things I am cooking. You can think of it as a *roadmap* of things I want to develop, test, then write about. 
+If you like the mechanics / ideas presented in these articles, take them. Use them in your games. Mix and match. Hack them to fit your own style. Have fun with it all.
 
-- **F\*ck The Mission Structure**: We don't need this as a *codified game framework*. I'll tell you why, in time.
-- **You're Doing Reserves Wrong**: We all are. Because the book tells us so. This ties to the Mission Structure, so it makes sense we're also kicking some dust in this area.
-- **Mech Combat as Conflict Resolution**: Or, how to run *less* combats. Or *more* combats but *less* tactical combats. You don't need to whip out the map on every encounter in a mech.
-- **Factions: Or, Fiction-first NPCs**: Two parts to this. The first is how to define a faction within your setting, and the second is how to give it *extra* personality. Will this require new systems? *Maaaaaaybe?*
-- **You only need One Map**: Or, "how to spend a lot of time preparing 'maps' for multiple sessions without worrying about the narrative while providing variety".
-- **Sitrep Chopshop**: Once you've learn to run with Sitreps, you must learn how to run without Sitreps. By taking them apart. Use their parts instead, and connect them to the narrative.
-- **Spicing up Combats with Narrative Effects**: Temp title. A framework seeking to enable players to do More Things in combat other than shooting and hacking each other.
-- **NPC Buddies**: Examining NPCs-As-Companions. That's all I have. For now.
-- **Running for Smaller Groups**: Lancer combat was not tuned for groups of less than 3 players.
+## The Menu
+
+I am cooking, and here's the menu. Not all of these are done *yet*. Some are actually being tested. Others won't right away, but I'll write anyways.
+
+- **Mission-less LANCER**: You don't need "missions". The book presents them as *a suggestion*. Let's see some ways in which we can ignore them and build something truly unique. This includes rethinking how and when characters get *Reserves*.
+- **Mech Combat as Conflict Resolution**: Title says it all. Reframing Combat by putting it in the same toolbox as a Skill Roll allows us to re-think when, why, and how we run combats.
+- **Fiction-first NPC Factions**: When you run games without preparing encounters in advance, you need a way to populate those encounters. Factions provide a framework to quickly do so, as well as a way to add spicy new mechanics into the mix.
+- **Ficiton-first Map-making**: Spoiler -- you don't need that many maps. Heck, you can make them on the spot, you just need to find some way to make them interesting.
+- **Sitrep Chop-shop**: Once you've learn to run with Sitreps, you must learn how to run objective-based encounters *without* Sitreps. This will show you one approach.
+- **Spicy New Combat Elements**: Specifically, we'll look at various ways in which we can let narrative elements influence Combat.
+- **NPC Buddies**: Examining NPCs-As-Companions. How to build them so the Players are not overwhelmed when they have to control them.
+- **Lonelier Lancers**: Lancer combat was not tuned for groups of less than 3 players. Here we'll look into ways to make that work beyond the tried-and-true (and previously-examined) "Just Add an NPC Buddy".
 
 You will find the list of completed articles accessible on the main page for **LANCER Garage**
