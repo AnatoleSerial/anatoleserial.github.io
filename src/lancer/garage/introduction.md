@@ -37,7 +37,7 @@ I am not the only LANCER GM who wants to break the beast apart and make it roar 
 
 I have a wishlist of articles I intend to explore. The order is suggested, but may change. See the main page for more.
 
-- **Mission-less LANCER?**:  Rethink progressioWhat even is a mission?n. Jumpstart an adventure.
+- **Drop the Default Mission Structure**:  What even *is* a mission? Rethink progression. Jumpstart into adventure.
 - **Mech Combat as Conflict Resolution**: Title. Combat is a *means* to an *end*. Reflow the process, when you must.
 - **Fiction-first NPC Factions**: Prep-light adversaries. How to use them. There might be new systems.
 - **Ficiton-first Map-making**: Rethinking map prep. Improvising maps. Have you considered *delegating* the task to your players?

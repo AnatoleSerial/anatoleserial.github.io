@@ -9,21 +9,31 @@ eleventyNavigation:
   order: 2
 ---
 
-## What Even is a Mission?
+## What even *is* a Mission?
 
-A lot of things in LANCER are tied to *Missions*. Let's talk about that.
+Seriously though: a lot of things in TTRPGs depend on *Framing*.
+
+In The Most Popular Fantasy RPGs, the *Narrative Framing* is that of *Adventures*: the Player Characters are *Adventurers*, individuals of high skill and technique who go explore places, get in trouble, and in general do a lot of things outside of the framework of static/established jobs. Like a Mercenary, except not about just Fighting Things. Hence: *Adventures*.
+
+Adventures do not have any *mechanics* tied to them, inherently. The *Mechanical Framing* of Fantasy RPGs has things such as *Encounters*, *Short Rests*, *Long Rests*, and *Downtime*, which often have some mechanical impact: Initiative is rolled at the start of an Encounter, Rests provide some healing and resource recovery, Downtime often involves shopping trips for gear as well as other forms of advancement.
+
+Let's see how Lancer frames its Narrative and Mechanics.
 
 ### Framing, By The Book
 
-In the LANCER Corebook, Missions provide an *in-game GM-driven structure* for a *gameplay loop*: Pilots are briefed their Objectives, prepare for said Objectives, attempt to achieve them within 2-3 combat encounters per Full Repair, then return home for debriefing. They \*DING!\* level up, and wait to repeat the whole process again.
+In the LANCER Corebook, **Missions** provide an *in-game structure* for a *gameplay loop*: Pilots are briefed their Objectives, prepare for said Objectives, attempt to achieve them within 2-3 combat encounters per Full Repair (With some Rests in between), then return home for Debriefing. They \*DING!\* level up, and wait to repeat the whole process again.
 
-It's a very *videogame-like structure*, which works well if you want your stories to be very videogame-like.
+It's both a *Narrative* and *Mechanic* framing.
 
-It's not as good if you're interested in telling less structured stories. The GM-Driven, Mission-Based Framing is a constraint: when it works, it is very satisfying, but when it doesn't it feels profoundly unsatisfying.
+What happens when your story does not feature proper missions? Can we use the non-diegetic part of the framing? *Should we*?
 
-So let's rethink it. 
+This is too complicated. Let's just *dump it*. 
 
-### Reframing LANCER
+### Dumping the Mission Mechanics
+
+Instead of Missions, just have a **Narrative Arc**. No "gameplay loop", just a classic, abstract structure. This frees you, the GM, in the following ways:
+
+- *You do not need to provide Objectives*: Players can choose their own. 
 
 We propose a *"Narrative Arc"* as an *out-of-game, Player-driven structure*. Unlike the capital-M Missions that create gameplay loops, a Narrative Arc exists as an *abstract* structure that aims to capture interest via dramatic tension. In TTRPGs, the entire Narrative Act is created via play, so when you first start planning a Narrative Arc you do not need to have an ending in mind, only a start that motivates the characters to *act*.
 
