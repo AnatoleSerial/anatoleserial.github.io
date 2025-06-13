@@ -19,7 +19,7 @@ Adventures do not have any *mechanics* tied to them, inherently. The *Mechanical
 
 Let's see how Lancer frames its Narrative and Mechanics.
 
-### Framing, By The Book
+## Framing, By The Book
 
 In the LANCER Corebook, **Missions** provide an *in-game structure* for a *gameplay loop*: Pilots are briefed their Objectives, prepare for said Objectives, attempt to achieve them within 2-3 combat encounters per Full Repair (With some Rests in between), then return home for Debriefing. They \*DING!\* level up, and wait to repeat the whole process again.
 
@@ -29,29 +29,20 @@ What happens when your story does not feature proper missions? Can we use the no
 
 This is too complicated. Let's just *dump it*. 
 
-### Dumping the Mission Mechanics
+## Dumping the Mission Mechanic
 
-Instead of Missions, just have a **Narrative Arc**. No "gameplay loop", just a classic, abstract structure. This frees you, the GM, in the following ways:
+Instead of Missions, just have a **Narrative Arc**. No "gameplay loop", just a classic, abstract structure. What gets removed, and what do we do instead?
 
-- *You do not need to provide Objectives*: Players can choose their own. 
+- *No Briefings*: It is much easier to ask the players what they want to try to do, then make a start that gets the story itself off running.
+- *No Explicit, Rigid Objectives*: It is much easier to switch objectives mid-story. If something comes up that the players want to explore, you can switch to that and continue the story in that direction.
+- *More flexible pacing*: The book recommends 2-3 combat encounters per Full Repair. Depending on the needs of the story and the characters' own actions, you get more freedom to play around and add more or less combat encounters.
 
-We propose a *"Narrative Arc"* as an *out-of-game, Player-driven structure*. Unlike the capital-M Missions that create gameplay loops, a Narrative Arc exists as an *abstract* structure that aims to capture interest via dramatic tension. In TTRPGs, the entire Narrative Act is created via play, so when you first start planning a Narrative Arc you do not need to have an ending in mind, only a start that motivates the characters to *act*.
+It really isn't that big of a change, if you think about it. You are just uncoupling the game mechanics from the Mission framework. This also means that you, as the GM, are free to grant License Levels when it makes sense narratively -- usually at the end of a major point in the story and after some downtime.
 
-This framing turns the GM role into a mostly *reactive* one. Players choose an action, and the GM provides the consequences. It is a natural fit. Try planning a Lancer campaign / session without thinking of giving a "mission" to your players!
+**What if you want missions?** Easy. Have missions as a diegetic structure instead of a mechanical one.
 
-### So, No Missions?
+## Other Considerations
 
-We are not ditching Missions as much as putting them next to other potential framings, within a larger, more conventional structure. If the characters *are* part of a group that *assigns* missions to them, you should definitely use missions as the *Narrative* fuel, the spark that ignites every chapter of your game's story. Ditching the capital-M Mission as the game's default framing gives you, and your players, the choice of how they want the story to continue. And choosing lowercase-m missions is perfectly fine too!
+A lot of the book is written with the Mission mechanic in mind. So here's some other changes:
 
-## Rethink Progression
-
-
-
-- Current Structure: Progression tied to Mission Completion, Downtime->Reserves as its own "phase"
-- Narrative: Progress through Narrative Arcs, reward roleplaying and interactions with Reserves
-- Players: Goals & Projects for *Players* not characters; consider a Wishlist
-
-## Jumpstart Adventure
-- Bridging Combat and Narrative: Pilot and Mech Skills should be usable everywhere. 
-- Combat should adapt to the Narrative needs: Players are free to try anything, aka "Yes you can flirt with the enemy why not"
-- Status and Conditions are a living list: if it makes narrative sense, define some mechanics for it.
+- Any "1/mission" game elements become "1/story". 
