@@ -30,35 +30,59 @@ This informs the kind of actions and approaches the Faction will take with the n
 
 **EXAMPLE:** What kind of adversaries can the PCs encounter in Planet Wanka? Let's see.
 - *OOMPA REBELS*: A group of FACTORY natives who seek to institute democracy by deposing Mr. Wanka. They are a covert operation to avoid Wanka's extensive surveillance network.
-- *WANKA CORPS*: William W. Wanka VI's currently overextending his ambitions towards ruling the entire planet. He has no qualms with and even prefers direct combat.
+- *WANKA CORPS*: William W. Wanka VI's currently overextending his ambitions towards ruling the entire planet. This group exemplifies "show of force".
 - *VERUCA GLOOP*: A HORUS cell investigating a potential Metavault, or a similar paracausal phenomenon. They fund their operation by selling technology (their own, or stolen from other big corpros) to both the rebel Oompas and the Wanka Corps.
 
 ## Creating a Mech Faction
 
-We now know, in general, what these factions are. Now we'll figure out what kind of Mechs they will have.
+We now know, in general, what these factions are. Now we'll figure out what kind of Mechs they will have. For every choice, you must consider the kind of *identity* the Faction should have.
 
 1. Write down three *Narrative* Keywords that describe this Faction's mechs.
-2. For each ROLE, select a Class that best fits this Faction. Based on the keywords, choose a second class for some or all of the ROLES (With a third one class it feels right, but not more). A good idea is to choose classes that have different speeds and ranges within that ROLE.
-3. Select one or two Classes for Grunts. You will be fielding these when you need mass-produced chaff or unimportant combats.
-4. (OPTIONAL) Select one or two preferred templates, besides Ultra, Elite and Veteran. You won't be deploying all the mechs with these templates, but use these if you want to up the ante on an encounter.
-5. (OPTIONAL) Select some optional features. You can either choose features in general, or for a specific class in the roster. 
+  - Can be a multi-word keyword. But keep it simple, flavorful, memorable.
+2. For each ROLE, select 1-3 Classes that best fits this Faction.
+  - Most ROLES should have 2, for a total of 10 classes on average.
+  - Tip: choose Classes that have different speeds and ranges within that ROLE. So you can have variety.
+3. Select one or two Classes for Grunts.
+  - For when you need emblematic chaff, or Narrative combats.
+4. (OPTIONAL) Select one or two preferred Templates, besides Grunts, Ultra, Elite and Veteran.
+  - Ultra, Elites and Veterans tend to be "upgrade" units, so reserve them for memorable adversaries.
+  - Use the preferred Templates when you want to up the ante or shake things up.
+5. (OPTIONAL) Select some optional Class/Template features. 
+  - You can choose features in general (i.e. from Templates), or for specific classes.
 
 With this, you have an entire roster of potential mechs to deploy.
 
 **EXAMPLE:** Let's design the *WANKA CORPS*.
-1. Based on the narrative description of the Wanka Corps, I choose the "Grandiose", "Imposing", "Sweet" keywords.
-2. Let's choose ROLE Classes:
-- STRIKER:
-- ARTILLERY:
-- CONTROLLER:
-- SUPPORT:
-3. Grunt: 
+1. Based on the narrative description of the Wanka Corps, I chose the "Grandiose", "Imposing", "Sweet" keywords.
+2. ROLE Classes:
+- ARTILLERY: Bombard (Only one class, here -- Wanka Corps prefers mid range)
+- CONTROLLER: Hive, Hornet (Insert Bee Movie theme)
+- DEFENDER: Goliath (Big Scary Guy), Pyro (Gotta bake the enemies)
+- STRIKER: Assault (Simple is best), Engineer (Threatening)
+- SUPPORT: Scout (For the extra damage), Support (Adds more durability to front line)
+3. Grunt: Bastion (For the impression)
+4. Templates: RPV, Commander
+5. Optionals: Deathcounter on the Grunt Bastions; Quick March or Military Discipline on Commanders; Orbital Strike or Expose Weakness on the Scouts; Electro-Nanite Cloud on the Hives; Arsenal on the Engineers.
 
+### Named NPCs
 
+Named NPCs are characters that represent a named threat / obstacle, so you will want to make them *memorable*. So, give them one of the upgrade Templates, at least, and optionals outside of the Faction'. Heck, break the mold even more, mix-and-match NPC optionals, own that shit.
+
+The most important part is to *signal* that guy in advance. Make it known the guy's *different*, yet integral to the Faction itself.
+
+**EXAMPLE**: For a hypothetical scenario, the players hear about one of the Wanka Corps's commanders that has been "testing the waters" so to speak, near a UNION camp. Thus, "Kayvl Teevee" is born, piloting an ELITE HIVE with ELECTRO-NANITE CLOUD, MOTILE SWARM and the Archer NPC's SUPRESS.
 
 ## Deploying a Faction OPFOR
 
-## Named NPCs
+So you got your Factions. The game starts, the player characters do their Lancing, and eventually they choose to resolve things in a way such that Mech-based violence is unavoidable. Time to deploy an OPFOR for the encounter!
+
+**Which NPC Classes?** Look at the encounter's Objectives, the state of the fiction, and the Faction's mech stats/capabilities. Do they require lots of movement or more static approaches? Direct confrontation or sneakier approaches? Which Control method will allow your OpFor to succeed? Then, following the guidance in the Lancer Corebook, choose 4-5 classes to deploy.
+
+**To Grunt or not to Grunt?** A good question. If it feels like a situation in which the Faction would throw cannon foder at a problem, either as a distraction or to overwhelm, go ahead. Otherwise, I would discourage Grunts in general, but every now and then you can just field them for the joy of it.
+
+**Named NPCs?** This one requires more forethought. Usually you'll want to deploy Named NPCs after building up some tension, from the second combat onwards. But if your players decide to go straight for the guy with the *reputation*, by all means, field a stronger, meaner guy.
+
+**Other considerations?** It really depends on the narrative. Do they have access to the mechs that enable the the previous questions' answers? Are the NPCs aware, prepared? Adjust the number and overall firepower of the NPCs based on the PCs actions.
 
 ## Extending Factions: Templates
 
