@@ -86,4 +86,13 @@ So you got your Factions. The game starts, the player characters do their Lancin
 
 ## Extending Factions: Templates
 
-- https://cornylius.itch.io/manufacturer-templates
+Main objective: slightly adjust a Faction's playstyle via Simple traits. 
+
+- Grant +1 Accuracy to HULL/AGILITY/SYSTEMS/ENGINEERING (Choose one for the entire faction)
+- Up Armored: +1 Armor (Up to 3)
+- Shielded: All mechs start with +3 Overshield
+- Orbital Reinforcements (Quick Action): This system can only be used once per scene per faction, after Round 2 and if the number of NPCs is less than the number of PCs. Choose an empty space within RANGE 5 and Line of Sight. A SIZE 1 Obstacle to drop in the chosen space, causing all characters adjacent to that space to be pushed 1 space away from the obstacle. Immediately deploy a number of GRUNTS equal to the number of PCs, which get to act this round.
+- Disruption Grenades (Loading, Quick Action): Throw a Disruption Grenade to a space within RANGE 5 and Line of Sight. All characters within a BURST 1 area centered in the grenade's space must succeed on an AGILITY save or become JAMMED.
+- Active Camo: All NPCs start combat INVISIBLE. They lose invisibility from this feature upon causing or taking damage.
+
+Unlike P.B. Cornylius's [Manufacturer Templates](https://cornylius.itch.io/manufacturer-templates), these are not meant to alter the NPC's significantly, just add a bit of "oomph".
