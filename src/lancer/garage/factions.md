@@ -86,6 +86,8 @@ So you got your Factions. The game starts, the player characters do their Lancin
 
 ## Extending Factions: Templates
 
+
+
 Main objective: slightly adjust a Faction's playstyle via Simple traits. 
 
 - Grant +1 Accuracy to HULL/AGILITY/SYSTEMS/ENGINEERING (Choose one for the entire faction)

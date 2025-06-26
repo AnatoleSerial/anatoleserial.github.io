@@ -76,9 +76,12 @@ I have no guidance as to when to use simple or complex resolution mechanics. It 
 
 I have a wishlist of articles I intend to explore. The order is suggested, but may change. See the main page for more.
 
-- **Fiction-first NPC Factions**: Prep-light adversaries. How to use them. There might be new systems.
+- **Redefining Roles**: Reclassify everything, for the sake of objective-based gaming.
+- **Fiction-first NPC Factions**: Prep-light adversaries. How to use them. Includes new systems to spice things up.
 - **Ficiton-first Map-making**: Rethinking map prep. Improvising maps. Have you considered *delegating* the task to your players?
 - **Sitrep Chop-shop**: Sitreps are too rigid for you? Bring a heavy blade. We'll teach you the ways of the scrapyard.
+- **Setpiece Encounters**: Designing combat encounters that present a singular, unique challenge.
+- **Man vs Mech: The Movie**: Cinematic combat for pilots who have to leave their mechs.
 - **Spicy New Combat Elements**: A quest for Ludonarrative Harmony. Bringing closer Narrative and Combat.
-- **NPC Buddies**: When you need an extra pair of boots on the ground.  Short-term, Long-term.
-- **Lonelier Lancers**: LANCER for smaller groups. Possibly solo? Beyond "Just add Friendly NPCs"
+- **NPC Buddies**: An extra pair of boots on the ground, short-term or long-term.
+- **Lonelier Lancers**: One or two players? Don't want to add more allied NPCs? Here are some ideas.
