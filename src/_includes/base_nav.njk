@@ -13,7 +13,7 @@
   <nav class="navTop">
     <div class="navItemHead">NAVi</div>
     {%- for entry in collections.all | eleventyNavigation(eleventyNavigation.key) %}
-    <div class="navItem">
+    <div class="navItem" title="{{entry.excerpt}}">
       <a href="{{entry.url}}">
         {{entry.title}}
       </a>
