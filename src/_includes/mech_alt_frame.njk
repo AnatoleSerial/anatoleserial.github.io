@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include "fonts.njk" %}
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/nav.css">
+  <title>{{ title }}</title>
+</head>
+<body>
+  <header><h1>{{ title }}</h1></header>
+  <nav class="navTop">
+    <div class="navItemHead">NAVi</div>
+    {%- for entry in collections.all | eleventyNavigation(eleventyNavigation.key) %}
+    <div class="navItem" title="{{entry.excerpt}}">
+      <a href="{{entry.url}}">
+        {{entry.title}}
+      </a>
+    </div>
+    {%- endfor %}
+    <div class="navItem">
+      <script>
+        document.write('<a href="' + document.referrer + '">BACk</a>');
+      </script>
+    </div>
+  </nav>
+  
+  <main>
+    <div class="mechframe"> <!-- TODO CSS vertical flow -->
+        <!-- TITLE: Manufacturer + frame name -->
+        <!-- ROLE(S) -->
+        <!-- Original License -->
+        <!-- STATBLOCK (HASE + Connected Stats) -->
+        <!-- Core System -->
+    </div>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>Return to <a href="/">AnatoleSerial.com</a> | Made with <a href="https://www.11ty.dev">11ty</a></p>
+  </footer> 
+</body>
+</html>
